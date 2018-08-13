@@ -1,0 +1,2 @@
+1. As an admin when customer does sucessful payment using credit or debit card, money is deducted from customer and credited to capstore revenue.
+2. As an Merchant when customer does successful payment using credit card or debit card, the percentage of commission is deducted from total amount and credited to merchant 

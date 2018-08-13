@@ -1,0 +1,39 @@
+----------------------------------------------------------------------------------------------
+Capstore Admin search User stories
+-----------------------------------------------------------------------------------------------
+
+1. As a Authorized User I want to search using the application as an Admin so that I can get any details regarding the Capstore
+
+    1.1 As a user I can search for Customer's profile so that I can know about the cart details, order details and wishlist
+    
+    1.2 As a user I can search for the Merchant's profile so that I can know about the merchants and their product details.
+
+    1.3 As a user I can search for the available items in the inventory.
+
+----------------------------------------------------------------------------------------------
+Capstore Merchant search User stories
+-----------------------------------------------------------------------------------------------
+2. As a Authorized User I want to search using the application as an Merchant so that I can get details of my own inventory
+  
+   2.1 As a user I can search for the product quantity so that I can update their availability 
+
+   2.2 As a user I can search the products by their category
+
+   2.3 As a user I can search the products by their name
+
+   2.4 As a user I can search the products by any specific type
+
+----------------------------------------------------------------------------------------------
+Capstore Customer search User stories
+-----------------------------------------------------------------------------------------------
+
+3. As a Authorized User I want to search using the application as a Customer so that I can search for the products available in Capstore
+
+   3.1 As a user I can search the products by their category
+
+   3.2 As a user I can search the products by their name
+
+   3.3 As a user I can search the products by any specific type
+
+   3.4 As a user I can search the products by their brand
+

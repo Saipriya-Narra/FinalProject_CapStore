@@ -1,0 +1,14 @@
+User Stories for Module 21 : Managing cart
+
+1.As an admin, I want to set minimum cost of purchase
+
+  1.1. Product can be purchased only if the 'order_amount'(of ORDER table) is greater than minimum cost of purchase.
+
+2.As a customer, I want to add products to my cart by clicking 'ADD TO CART' button.
+
+  2.1. I want to set the quantity for the product 
+
+  2.1. I want to view the cart list at any instance of time.
+
+3.As a customer, I want to remove products from my cart by clicking 'REMOVE FROM CART' button.
+

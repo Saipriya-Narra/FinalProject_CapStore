@@ -1,0 +1,93 @@
+1.As a user I want to view the product within the given range of price so that I can see the products within the given range only.
+
+2.As a user I want to view the product  based on ascending order of price so that I can see the products from low price to high price.
+
+3.As a user I want to view the product based on descending order of price so that I can see the products from high price to low price.
+
+4.As a user I want to view the mostly viewed product so that I can see the most popular products.
+
+5.As a user I want to view the products of best seller so that I can see products of best sellers.
+
+
+
+
+1.As a merchant I want to view the product based on its type so that I can see the product of particular type.
+
+2.As a merchant I want to view the product based on ascending order of discount percentage so that I can see the products from less discount  to high discount
+
+3.As a merchant I want to view the product based on descending order of discount percentage so that I can see the products from high discount to less discount.
+
+
+
+
+1.As a admin I want to view the product based on ascending order of product name so that I can see the products in alphabetical order.
+
+2.As a admin I want to view the product based on ascending order of merchant  name so that I can see the products of particular merchant in alphabetical order.
+
+3.As a admin I want to view the product based on ascending order of product price so that I can see the products from low price to high price.
+
+4.As a admin I want to view the product based on descending order of product price so that I can see the products from high price to low price.
+
+5.As a admin I want to view the product based on ascending order of product quantity so that I can see the products of highest quantity are seen first.
+
+6.As a admin I want to view the product based on descending order of product quantity so that I can see the fast selling products first.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,62 @@
+
+
+
+
+======================================================================================================		
+	
+					MERCHANT USER STORIES Module 5 and 12
+
+======================================================================================================
+
+
+
+1.  As a user, I want to login to CapStore Application.
+
+	1.1. As a user, I should provide a valid email and password to login.
+ 
+2.  As a registered user, I should have control over my inventory.
+
+3.  As a registered user, I should be able to check the orders and give response to the admin.
+
+4.  As a registered user, I should be able to perform operations on my inventory.
+
+	4.1. As a registered user, I should add product to my inventory on approval of admin.
+
+	4.2. As a registered user, I should remove product.
+
+	4.3. As a registered user, I should add new promos and discount rates.
+
+		4.3.1. I should add promos on a particular product.
+
+		4.3.2. I should add promos on a category of products.
+
+		4.3.3. I should add promos on a product of minimum price.
+
+	4.4. As a registered user, I should add and remove categories.
+
+	4.5. As a registered user, I should update the stock.
+
+	4.5. As a registered user, I should search the products in my own inventory.
+
+	4.6. As a registered user, I should upload the image of the product and banners.
+
+
+
+
+===============================================================================
+
+				ADMIN USER STORIES Module 12 and 13
+
+===============================================================================
+
+1. As an admin, I want to manage the complete inventory.
+
+2. As an admin, I should be able to perform below operations.
+
+   2.1. As an admin, I should add, remove merchants / third party merchants.
+
+   2.2. As an admin, I should add and remove products.
+
+   2.3. As an admin, I should add and remove categories.
+    
+   2.4. As an admin, I should update stocks.

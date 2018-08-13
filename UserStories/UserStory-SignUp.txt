@@ -1,0 +1,60 @@
+----------------------------------------------------------------------------------------------
+Capstore Admin signup User stories
+-----------------------------------------------------------------------------------------------
+
+1.As a user, I want to Register into CapStore Application as an Admin so that I can manage all merchants and their products
+
+   1.1 As a user, I should be asked for email id and password for registration 
+
+   1.2 As a user, I can give only valid Email Id  
+   
+   1.3 As a user, I can give only valid Password matches the validation credentials:
+    
+       minimum of 1 uppercase letter, minimum of 1 special character and minimum of 1 number
+
+
+----------------------------------------------------------------------------------------------
+Capstore Merchant signup User stories
+-----------------------------------------------------------------------------------------------
+
+2.As a user, I want to Register into CapStore Application as a Merchant so that I can upload product details and sell them
+
+  2.1 As a user, I should be asked for First Name and it should have only alphabets
+  
+  2.2 As a user, I can give only valid Email Id
+
+  2.3 As a user, I can give only valid Mobile Number which should satisfy validation constraints : 10 digits, should start with '6,7,8,9'
+  
+  2.4 As a user, I can give address
+  
+  2.5 As a user, I can give valid password that it should have a minimum of 8 characters
+     
+       with minimum of 1 uppercase letter, minimum of 1 special character and minimum of 1 number
+  
+  2.6 As a user, I should be asked the type of merchant
+
+
+----------------------------------------------------------------------------------------------
+Capstore Customer signup User stories
+-----------------------------------------------------------------------------------------------
+
+3.As a user, I want to Register into CapStore Application as a Customer, so that I can visit and buy products
+
+  3.1 As a user, I should be asked for First Name and it should have only alphabets
+
+  3.2 As a user, I should be asked for Last Name and it is not mandatory  
+
+  3.2 As a user, I should be asked for Gender and it should be male or female or others
+  
+  3.3 As a user, I should be asked for Date Of Birth
+
+  3.4 As a user, I can give only valid Password that it should have a minimum of 8 characters
+     
+       with minimum of 1 uppercase letter, minimum of 1 special character and minimum of 1 number
+
+  
+  3.4 As a user, I can give only valid Mobile Number which should satisfy validation constraints : 10 digits, should start with '6,7,8,9'
+
+  3.5 As a user, I can give only valid Email Id
+ 
+  3.6 As a user, I should be asked for address

@@ -1,0 +1,13 @@
+//GETTING TRANSACTION DETAILS
+
+
+1. As a customer,I want to buy an item via different modes of transaction
+	1.1 'ONLINE BANKING' selects all credentials required.
+	1.2 'CREDIT/DEBIT CARD' enters card number,name,cvv,expiry month and year.
+	1.3 'CASH ON DELIVERY' enters detailed delivery address. 
+
+2. As a developer, I want to validate all the details entered by the customer
+	2.1 'Incorrect username or password' when invalid credentials are entered in 'ONLINE BANKING'.
+	2.2 'Incorrect cvv/card number/expiry month and year' when wrong details are entered in'CREDIT/DEBIT CARD'
+	2.3 'Incorrect address' when invalid address is entered in 'CASH ON DELIVERY'
+

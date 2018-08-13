@@ -1,0 +1,7 @@
+//Product Image
+
+1. As an admin, I want Images to be zoomed and must be displayed in proper slideshow.
+	1.1 Images can be zoomed based on customer wish.
+
+2. As a customer, I want to Zoom the images and access them in proper slideshow
+	

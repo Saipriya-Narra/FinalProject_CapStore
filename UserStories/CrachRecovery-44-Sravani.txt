@@ -1,0 +1,17 @@
+crach recovery
+--------------
+
+
+1)As a customer I can view all the products in the cart at any time.
+
+ 
+2)As a customer I can remove items that is present in the cart.
+
+3)As a admin I want to remove particular merchant so that the merchant products will be unavailable.
+
+
+4)As a customer I want to see out of stock message in cart when the product count is zero in inventary  
+
+5)As a customer I want to see product is unavailable message in cart when the merchent delete the items 
+
+6)As a customer I want to see product is unavailable message in cart when the merchent is no longer available

@@ -1,0 +1,18 @@
+1. As an admin, I want to update the status of delivery of products. so that customer can check their delivery status.
+	1.1 Product details including product id must be considered while updation
+	1.2 Different stages of delivery including timestamp must be considered 
+
+
+2. As an admin, I want to update the status as different stages.
+	2.1 'NOT YET SHIPPED'  which means started preparing order
+	2.2 'SHIPPING SOON'  which means we are pereparing your order and it will be sent to you, usually within 24 hours.
+	2.3 'DISPATCHED' which means we have sent your order on the date indicated. You can check the estimated delivery date in your account.
+	2.4 'OUT FOR DELIVERY' which means that your package is out for delivery and should be delivered on the day you recieve the message.
+	2.4 'DELIVERED' which means that your package has been succesfully delivered .
+	
+3. As a merchant, I want to ensure product is available or not.
+	3.1 'AVAILABLE' sends a message to admin saying that product is available, go for further process.
+	3.2 'NOT AVAILABLE' sends a message to admin saying 'Sorry, product is not available at the moment'.
+
+4. As a customer, I want to check status of delivery.
+	

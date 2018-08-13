@@ -1,0 +1,15 @@
+Module - 7 --- Password encryption
+    
+For Customer 
+
+   1. As a User,I would like to encrypt my password so that I can protect my password
+===================================================================================================
+
+For Merchant
+
+   1. As a Merchant,I would like to encrypt my password so that I can protect my password
+=====================================================================================================
+
+For Admin
+  
+  1. As an admin,I would like to encrypt my password so that I can protect my password  

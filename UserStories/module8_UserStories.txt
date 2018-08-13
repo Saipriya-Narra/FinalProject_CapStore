@@ -1,0 +1,23 @@
+Module-8--Change Password
+  
+
+For Customer
+    
+   1.As an authorised user, I want to change my password
+     
+      1.1 As an authorised user,when I enter the new password it should not match with the previous passwords
+
+      1.2 As an authorised user,when I enter the new password it should fulfill all the password related constraints- At least 8 characters with one number, one uppercase letter and one special character
+
+
+=====================================================================================================================================================================================================================================
+
+For Merchant
+
+   1.As an authorised merchant, I want to change my password
+     
+      1.1 As an authorised merchant,when I enter the new password it should not match with the previous passwords
+
+      1.2 As an authorised merchant,when I enter the new password it should fulfill all the password related constraints- At least 8 characters with one number, one uppercase letter and one special character
+
+=========================================================================================================================================================================================================================================

@@ -1,0 +1,15 @@
+User Story for Validation of user - Module 10
+
+As an admin, I want to verify the E-mail ID of the user, so that the E-mail ID of user should be unique for creation of new account.
+
+As an admin, I want to verify the Mobile Number of the user, so that the Mobile Number of user should be unique for creation of new account.
+
+As an admin, I want to verify the password, so that the password must be atleast _ characters.
+
+As an admin, I want to verify the username and password of the user, so that user can login into his/her account.
+
+As a Merchant, I want to check for the availability of the items, so that the user can purchase it.
+
+As a Merchant, I want to check for the mentioned color or size of the item, so that the user can purchase it.
+
+As a Merchant, I want to verify the address of the user, so that the item is delivered to that address.

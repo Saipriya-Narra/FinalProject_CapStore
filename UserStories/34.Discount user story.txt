@@ -1,0 +1,10 @@
+User story for discounts
+
+if discount is on products the discounted price will be calculated and reflected on invoice
+
+-->As I am merchant, I want to display the discount on the product so that customer can
+   avail the discount.
+-->As I am merchant, I want to display the discounted price so that customer can see the 
+   final cost of the product.
+
+

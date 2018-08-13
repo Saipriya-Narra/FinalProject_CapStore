@@ -1,0 +1,23 @@
+------------------------------   Customer perspective
+
+1. As a registered user I should be able to see the amount of available products,
+ so that I can place an order of my choice.
+2. As a registered user I should be able to place an order
+ only if the product is availbale on merchant side.
+3. As a registered user I should change my specs if my selected specs are unavailable so that
+ I can buy my second choice  
+4. As a user I should change my address so that 
+ I can check if product is availbale at the new location
+
+
+
+------------------------------- Merchant perspective
+
+
+1. As a registered merchant I should check for the order confirmation 
+so that I can make a change in the inventory level
+2. As a registered merchant I should be updating the inventory 
+so that user can check the quantity of available products for purchase
+
+--------------------------------
+

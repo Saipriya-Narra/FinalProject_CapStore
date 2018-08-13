@@ -1,0 +1,35 @@
+===========================USER STORIES=====================
+
+++++++++++++++++++++++++++++++++
+
+		28.WISHLIST
+
+++++++++++++++++++++++++++++++++
+
+1)As a capstore user,I am able to add products of my choice to wishlist by  
+clicking 'ADD TO WISHLIST' Icon so that i can purchase it later.
+	
+2)As a capstore user, I am able to set the required quantity of the product
+that i wish to buy.
+
+3)As a capstore user,I am able to remove products from wishlist by clicking
+'REMOVE FROM WISHLIST' icon.
+ 
+
+
+4)As a capstore user,I am able to add wishlist items to the cart by clicking
+'ADD TO CART' icon.
+
+
+5)As a capstore user, I am able to share the wishlist items as an email to
+my  friends by clicking 'SHARE' icon so that i can gift them their own choice.
+
+
+6)As an administrator of capstore,i am able to view the wishlist items of
+all the customers of capstore on clicking 'VIEW WISHLIST ITEMS' so that i can
+run promotions accordingly to target specific customer segment.
+
+
+7)As a merchant of capstore, I am able to view and track which of my products are 
+being reserved on wishlists so that it can be helpful in determining demand
+for certain products.

@@ -1,0 +1,22 @@
+=========================
+Rating User Stories
+=========================
+
+1)As an authorized user, I must be able to rate a product, so that people will know how good 
+the product is.
+
+2)As a merchant, I must be able to view the rating of the product, so that I can analyse the 
+demand for a particular product.
+
+3)As an admin, I must be able to view the rating of the merchant, so that the quality of
+ his(merchant) products can be known.
+
+4)As a user, I should be able to view the products sorted by rating, so that I can choose
+ the best product.
+
+5)As a user, I should be able to view the best seller(merchant) based on rating.
+
+6)As a merchant I should be able to view the least rated products, so that the best marketing 
+methodologies like giving discounts, coupons, etc are adapted.
+
+

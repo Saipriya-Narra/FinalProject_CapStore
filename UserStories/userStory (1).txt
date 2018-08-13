@@ -1,0 +1,58 @@
+                          			 USER STORIES
+			  			 ------------
+
+						Sowmya Dhumale 
+						   Module 3
+
+
+1) As an Administrator of capstore, I must be able to access any link among Customer details, merchant details and Inventory details.
+
+2) As an Admin, I can be able to view all the Customer details if I click on 'Customer Details' link.
+
+	2.1) I am able to view the details of all customers
+	2.2) I am able to go to home page if I click on 'Home' button.
+
+3) As an Admin, I am able to view all the Merchant details if I click on 'Merchant Details' link.
+	3.1) I am able to view the details of all the Merchants 
+  	3.2) I am able to go to home page if I click on 'Home' button.
+	3.3) I am able to remove the Merchant if needed 
+	3.4) I am able to add the new merchant(Direct Merchant or third party merchant) when I click on 'Add' button.
+
+4) As an Admin, I must be able to view all the Inventory detais if I click on 'Inventory details' link
+	4.1) I am able to view the details of all the Products
+	4.2) I am able to go to home page if I click on 'Home' button.
+	4.3) I am able to remove the product if needed 
+	4.4) I am able to add the new product and new category
+	4.5) I am able to update the stock
+	
+
+5) As an Admin, I must be able to go to Home page using 'Home' button.
+
+-------------------------------------------------------------------------------------------------
+
+6) As an Admin, I must be able to validate the Merchant first, so that he will be able to login into Merchant Page
+
+7) As an Admin, I will be able to receive the feedbacks from customers, 
+	forward the feedbacks of customers to merchants and also redirect their responses to customers
+
+8) As an Admin, I am able to search for any customer details, merchant details and any inventory details
+
+9) As an Admin, I can upload images of products and banners
+
+10) As an Admin, I can put up promos and discount 
+	It can be on individual products or for category of products or on some minimum amount 
+	It will be for a limited time period.
+
+11) As an Admin, I can set some minimum cost of purchase
+
+12) As an Admin, I will be able to generate coupons and email it to the Customers 
+	which will be valid for a minimum time period and will have unique code
+
+13) As an Admin, I can generate buiseness anlyasis at the end of some time period. 
+	So that it can check dispatch report of particular product ,Category of products or products from a particular merchant
+
+14) As an Admin, I am able to verify the products returned by the customers so that money can be refunded to the customer
+
+15) As an Admin, I am able to send new attaractions of Capstore to the customer
+
+16) As an admin, I am able to update the status of delivery of products so that Customer can check status of delivery

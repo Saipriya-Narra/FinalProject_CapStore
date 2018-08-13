@@ -1,0 +1,7 @@
+User story for Coupons
+
+A Cutomer can apply coupons and get discount on the final bill
+
+-->As I am customer, I want to apply the coupon code on the product so that i can avail the offer.
+-->As I am merchant, I want to validate the coupon code so that I can provide the discount requested 
+   by the customer.

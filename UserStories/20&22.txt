@@ -1,0 +1,15 @@
+User stories for module 20&22
+MOdule 20
+ As an admin/merchant,I should be able to put up items that have a discount on them
+ As an admin/merchant,I should be able display discounts for different categories
+ As an admin/merchant,I should be able to set time validity for discounted items
+ As an admin/merchant,I should be able to display items that are available for a certain amount of discount
+ As an admin/merchant,I should be able to display promos/offers of certain brands 
+ As an admin, I should be able to display offers on the mode of transaction
+
+Module 22
+As an admin ,I should be able to generate coupon ids for items that may or may not have a disount on them
+As an admin ,I should be able to generate coupon ids for total price
+As an admin ,I should be able to email the same to customers
+As an admin ,I should be able to set coupon validity(time period,total price)
+ 

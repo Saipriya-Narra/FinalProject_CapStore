@@ -1,0 +1,11 @@
+Module-38 (Delivering Products)
+
+--- After successfully placing an order, product will be delivered to the customer and inventory will be updated.
+
+User Story:
+
+--- As a Admin/Merchant, I should be able to view whether the order is successfully placed or not.
+--- As a Admin/Merchant, I should be able to check the delivery status of the Product.
+--- As a Admin/Merchant, I should be able to update the inventory if required.
+---As a Admin/Merchant, when the Order is successfully placed by the Customer, I want to check if the delivery status is Not Delivered(Processing/Dispatched/Shipping), so that no update is required.
+---As a Admin/Merchant, when the Order is successfully placed by the Customer, I want to check if the delivery status is Delivered, so that I can update the inventory accordingly.

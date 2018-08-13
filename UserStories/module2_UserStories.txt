@@ -1,0 +1,40 @@
+Module -2 ----Login/Logout/session
+
+
+Customer login user stories
+-----------------------------------------------------------------------------------------------
+
+  1. As an authorised user, I want to login to CapStore so that I can access CapStore Application
+      
+	1.1 As an authorised user, If I give valid email_id and password ,I should be navigated to CapStore home page
+        1.2 As an authorised user, If I give invalid credentials, I should be warned with an error message
+ 
+
+============================================================================================================================
+Merchant login user stories
+--------------------------------------------------------------------------------------------------
+
+ 1. As an authorised merchant, I want to login to CapStore so that I can access CapStore Application
+      
+	1.1 As an authorised merchant, If I give valid email_id and password ,I should be navigated to CapStore home page
+        1.2 As an authorised merchant, If I give invalid credentials, I should be warned with an error message
+ 
+
+=================================================================================================
+Admin login user stories
+------------------------------------------------------------------------------------------------
+
+
+  1. As an admin, I want to login to CapStore Application
+      
+	1.1 As an admin, I should give valid email_id and password ,so I can access the CapStore Application
+
+  2. As an admin, when the User/Merchant logged into their account, I should ensure that a session should be established
+  
+  3. As an admin, when the User/Merchant logout from their account, I should ensure that particular session should be terminated and 
+     should be navigated to login page.
+
+
+================================================================================================================================
+
+

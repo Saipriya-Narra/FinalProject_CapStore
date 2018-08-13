@@ -1,0 +1,12 @@
+                           User Story for Customer Profile(Module_6)
+
+
+As a user, I want to check my wishlist so that I can see it and buy items from it.
+
+As a user, I would like to check my ordered items.
+
+As a user, I want to check the status of the delivery products.
+
+As a user, I can give feedback on the products when product quality is not good.
+
+As a user, I want to Update my profile Information.

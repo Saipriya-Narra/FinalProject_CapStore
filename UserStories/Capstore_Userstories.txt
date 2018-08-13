@@ -1,0 +1,44 @@
+Capstore Product Feedback To the merchant User stories
+-----------------------------------------------------------------------------------------------
+
+1.As an authorized Customer,I should be able to give feedback for the products in the Capstore
+
+   1.1 As a user,I can give feedback on ordered products
+     1.1.1 As as user,I can give feedback on improving the quality of the product
+
+     1.1.2 As as user,I can give feedback on delivery  of the product
+
+     
+   1.2 As a user,I can give feedback on a particular product
+
+
+   1.3 As a user, I can give feedback on a product which is not available in the market
+
+  
+   1.4 As a user,I can give feedback when product information specified is not clear
+
+
+
+----------------------------------------------------------------------------------------------
+Capstore Feedback FOR ADMIN User stories
+---------------------------------------------------------------------------------------------
+2.As an authorized Customer,I should be able to give feedback to the Capstore admin
+
+   2.1 As a user, I can give feedback on wensite isnot loading
+
+   
+   2.2 As a user, I can give feedback on product not found
+
+   
+   2.3 As a user, I can give suggestions on page display
+
+   
+   2.4 As a user, I can suggest for different brands on a product
+
+  
+   2.5 As a user, I can give feedback regarding unnecessary advertisements
+  
+
+   2.6 As a user,I can give feedback on some texts is missing in particular page
+
+----------------------------------------------------------------------------------------------

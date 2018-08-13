@@ -1,0 +1,7 @@
+1. As an admin, I want to generate invoice which will contain all details about selected items and their price.
+1.1 product details including product id must be considered.
+1.2 Different notifications must be sent to the customer to save the invoice.
+
+
+2. As a customer, I want to view my invoice for the product that has been selected
+2.1 view and downloads the invoice attached.
